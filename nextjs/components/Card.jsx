@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-import { ReactIcon } from "../../assets/react.png";
+import { ReactIcon } from "../assets/react.png";
 const data = [
   {
     title: "React",
