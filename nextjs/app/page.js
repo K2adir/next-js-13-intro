@@ -7,6 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 import Hero from "../components/Hero/Hero";
 import Navbar from "../components/navbar/Navbar";
 import Card from "../components/Card/Card";
+import Projects from "../components/Projects";
 
 //
 //
@@ -24,6 +25,7 @@ export default async function Home() {
     <main className={styles.main}>
       <Hero />
       <Card />
+      <Projects />
     </main>
   );
 }
