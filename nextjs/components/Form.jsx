@@ -6,7 +6,7 @@ export default function Form() {
   const [email, setEmail] = useState("");
   const [subject, setSubject] = useState("");
   const [message, setMessage] = useState("");
-  const [isSubmitted, setIsSubmitted] = useState(false); // added state variable
+  const [isSubmitted, setIsSubmitted] = useState(false);
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -35,6 +35,7 @@ export default function Form() {
               </h6>
             </label>
             <input
+              required
               type="text"
               name="name"
               id="name"
@@ -54,6 +55,7 @@ export default function Form() {
               </h6>
             </label>
             <input
+              required
               type="email"
               name="email"
               id="email"
@@ -73,6 +75,7 @@ export default function Form() {
               </h6>
             </label>
             <input
+              required
               type="text"
               name="subject"
               id="subject"
@@ -92,6 +95,7 @@ export default function Form() {
               </h6>
             </label>
             <textarea
+              required
               rows="8"
               name="message"
               id="message"
