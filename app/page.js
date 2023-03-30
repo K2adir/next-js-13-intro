@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ["latin"] });
 //
 
 import Hero from "../components/Hero";
-import Navbar from "../components/Navbar";
+
 import Card from "../components/Card";
 import Projects from "../components/Projects";
 import Form from "../components/Form";

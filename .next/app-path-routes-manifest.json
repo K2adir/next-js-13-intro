@@ -1,6 +1,0 @@
-{
-  "/(grouping)/home/page": "/home",
-  "/api/hello/route": "/api/hello",
-  "/contact/page": "/contact",
-  "/page": "/"
-}
