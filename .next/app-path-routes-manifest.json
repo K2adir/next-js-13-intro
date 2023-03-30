@@ -1,6 +1,4 @@
 {
-  "/(grouping)/home/page": "/home",
-  "/page": "/",
   "/api/hello/route": "/api/hello",
-  "/contact/page": "/contact"
+  "/page": "/"
 }
