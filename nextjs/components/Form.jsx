@@ -17,6 +17,9 @@ export default function Form() {
   return (
     <div className="flex items-center justify-center p-12 w-4/6">
       <div className="mx-auto  min-w-[300px] w-4/6">
+        <h1 className="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-white">
+          Contact
+        </h1>
         <form
           action="https://formbold.com/s/FORM_ID"
           method="POST"

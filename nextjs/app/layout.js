@@ -1,3 +1,4 @@
+import CurrencyFetch from "@/components/fetch/CurrencyFetch";
 import Navbar from "../components/Navbar";
 import "./globals.css";
 
@@ -11,7 +12,9 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
         <Navbar />
+
         <div>{children}</div>
+        <CurrencyFetch />
       </body>
     </html>
   );

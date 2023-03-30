@@ -62,6 +62,9 @@ const data = [
 export default function Projects() {
   return (
     <>
+      <h1 className="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-white">
+        Projects
+      </h1>
       <div
         className="flex flex-wrap lg:w-3/4 md:w-90 w-90 place-content-around container"
         id="homeProjects"
