@@ -22,7 +22,7 @@ export default function Form() {
           method="POST"
           onSubmit={handleSubmit}
         >
-          <div className="mb-5">
+          <div className="mb-5" id="homeForm">
             <label
               htmlFor="name"
               className="mb-3 block text-base font-medium text-[#07074D]"

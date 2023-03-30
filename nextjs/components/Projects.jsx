@@ -43,26 +43,29 @@ const data = [
     text: "This is a great project",
     id: 6,
   },
-  {
-    link: "",
-    image: "https://picsum.photos/600/500",
-    title: "Project 3",
-    text: "This is a great project",
-    id: 7,
-  },
-  {
-    link: "",
-    image: "https://picsum.photos/600/500",
-    title: "Project 3",
-    text: "This is a great project",
-    id: 8,
-  },
+  //   {
+  //     link: "",
+  //     image: "https://picsum.photos/600/500",
+  //     title: "Project 3",
+  //     text: "This is a great project",
+  //     id: 7,
+  //   },
+  //   {
+  //     link: "",
+  //     image: "https://picsum.photos/600/500",
+  //     title: "Project 3",
+  //     text: "This is a great project",
+  //     id: 8,
+  //   },
 ];
 
 export default function Projects() {
   return (
     <>
-      <div className="flex flex-wrap lg:w-3/4 md:w-90 w-90 place-content-around container">
+      <div
+        className="flex flex-wrap lg:w-3/4 md:w-90 w-90 place-content-around container"
+        id="homeProjects"
+      >
         {data.map(({ link, image, title, text, id }) => {
           return (
             <div

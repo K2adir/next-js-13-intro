@@ -1,6 +1,25 @@
+"use client";
 import Link from "next/link";
 
 export default function Navbar() {
+  const handleScroll = (event) => {
+    event.preventDefault();
+
+    const clickedId = event.target.getAttribute("href");
+    switch (clickedId) {
+      case "#homeProjects":
+        const homeSection = document.getElementById("homeProjects");
+        homeSection.scrollIntoView({ behavior: "smooth" });
+        break;
+      case "#homeForm":
+        const contactSection = document.getElementById("homeForm");
+        contactSection.scrollIntoView({ behavior: "smooth" });
+        break;
+      default:
+        break;
+    }
+  };
+
   return (
     <nav className="bg-white border-gray-200 px-2 sm:px-4 py-2.5 rounded dark:bg-gray-900">
       <div className="container flex flex-wrap items-center justify-between mx-auto">
@@ -57,7 +76,8 @@ export default function Navbar() {
             </li>
             <li>
               <Link
-                href="#"
+                href="#homeProjects"
+                onClick={handleScroll}
                 className="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
               >
                 Projects
@@ -73,7 +93,8 @@ export default function Navbar() {
             </li>
             <li>
               <Link
-                href="#"
+                href="#homeForm"
+                onClick={handleScroll}
                 className="block py-2 pl-3 pr-4 text-gray-700 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"
               >
                 Contact
