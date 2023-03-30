@@ -12,3 +12,4 @@ Working FORM, connect it to your account and you are set
 Needs: 
 
 Blog and MDX can be implemented, system for slugs is ready to go. 
+
