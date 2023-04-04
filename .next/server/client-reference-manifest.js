@@ -1,1 +1,729 @@
-self.__RSC_MANIFEST={"__ssr_module_mapping__":{"611":{"*":{"id":"5958","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"*","async":false},"":{"id":"5958","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"","async":false},"default":{"id":"5958","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"default","async":false}},"1693":{"*":{"id":"2260","chunks":["450:450-3cf50b9acefb0cf0","185:app/layout-1317230746facacc"],"name":"*","async":false},"":{"id":"2260","chunks":["450:450-3cf50b9acefb0cf0","185:app/layout-1317230746facacc"],"name":"","async":false},"default":{"id":"2260","chunks":["450:450-3cf50b9acefb0cf0","185:app/layout-1317230746facacc"],"name":"default","async":false}},"2742":{"*":{"id":"3534","chunks":["450:450-3cf50b9acefb0cf0","185:app/layout-1317230746facacc"],"name":"*","async":false},"":{"id":"3534","chunks":["450:450-3cf50b9acefb0cf0","185:app/layout-1317230746facacc"],"name":"","async":false},"default":{"id":"3534","chunks":["450:450-3cf50b9acefb0cf0","185:app/layout-1317230746facacc"],"name":"default","async":false}},"3074":{"*":{"id":"9330","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"*","async":false},"":{"id":"9330","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"","async":false},"default":{"id":"9330","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"default","async":false}},"3920":{"*":{"id":"3716","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"*","async":false},"":{"id":"3716","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"","async":false},"default":{"id":"3716","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"default","async":false}},"5270":{"*":{"id":"8938","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"*","async":false},"":{"id":"8938","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"","async":false},"default":{"id":"8938","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"default","async":false}},"7059":{"*":{"id":"9533","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"*","async":false},"":{"id":"9533","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"","async":false},"default":{"id":"9533","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"default","async":false}},"7560":{"*":{"id":"7937","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"*","async":false},"":{"id":"7937","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"","async":false},"default":{"id":"7937","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"default","async":false}},"8331":{"*":{"id":"1551","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"*","async":false},"":{"id":"1551","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"","async":false},"default":{"id":"1551","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"default","async":false}},"8880":{"*":{"id":"2513","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"*","async":false},"":{"id":"2513","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"","async":false},"default":{"id":"2513","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"default","async":false}},"8892":{"*":{"id":"8950","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"*","async":false},"":{"id":"8950","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"","async":false},"default":{"id":"8950","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"default","async":false}}},"__edge_ssr_module_mapping__":{},"__entry_css_files__":{"/Users/k2/Documents/Development/Projects/next-js-13-intro/app/page":["static/css/82e4238826c90d3c.css","static/css/33b2f99b2295dae9.css"],"/Users/k2/Documents/Development/Projects/next-js-13-intro/app/layout":["static/css/6fa671afce0e960e.css"]},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/app-router.js":{"id":"611","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"*","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/app-router.js":{"id":"611","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"*","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/app-router.js#":{"id":"611","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/app-router.js#":{"id":"611","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/app-router.js#default":{"id":"611","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"default","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/app-router.js#default":{"id":"611","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"default","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/error-boundary.js":{"id":"8331","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"*","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/error-boundary.js":{"id":"8331","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"*","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/error-boundary.js#":{"id":"8331","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/error-boundary.js#":{"id":"8331","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/error-boundary.js#default":{"id":"8331","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"default","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/error-boundary.js#default":{"id":"8331","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"default","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/layout-router.js":{"id":"8892","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"*","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/layout-router.js":{"id":"8892","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"*","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/layout-router.js#":{"id":"8892","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/layout-router.js#":{"id":"8892","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/layout-router.js#default":{"id":"8892","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"default","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/layout-router.js#default":{"id":"8892","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"default","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/render-from-template-context.js":{"id":"8880","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"*","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/render-from-template-context.js":{"id":"8880","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"*","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/render-from-template-context.js#":{"id":"8880","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/render-from-template-context.js#":{"id":"8880","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/render-from-template-context.js#default":{"id":"8880","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"default","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/render-from-template-context.js#default":{"id":"8880","chunks":["272:webpack-4666c6a7e168e6d5","455:455-0b3d075232a7721c"],"name":"default","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/link.js":{"id":"3920","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"*","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/link.js":{"id":"3920","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"*","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/link.js#":{"id":"3920","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/link.js#":{"id":"3920","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/link.js#default":{"id":"3920","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"default","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/link.js#default":{"id":"3920","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"default","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/components/Navbar.jsx":{"id":"2742","chunks":["450:450-3cf50b9acefb0cf0","185:app/layout-1317230746facacc"],"name":"*","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/components/Navbar.jsx#":{"id":"2742","chunks":["450:450-3cf50b9acefb0cf0","185:app/layout-1317230746facacc"],"name":"","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/components/Navbar.jsx#default":{"id":"2742","chunks":["450:450-3cf50b9acefb0cf0","185:app/layout-1317230746facacc"],"name":"default","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/components/fetch/CurrencyFetch.jsx":{"id":"1693","chunks":["450:450-3cf50b9acefb0cf0","185:app/layout-1317230746facacc"],"name":"*","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/components/fetch/CurrencyFetch.jsx#":{"id":"1693","chunks":["450:450-3cf50b9acefb0cf0","185:app/layout-1317230746facacc"],"name":"","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/components/fetch/CurrencyFetch.jsx#default":{"id":"1693","chunks":["450:450-3cf50b9acefb0cf0","185:app/layout-1317230746facacc"],"name":"default","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/assets/react.png":{"id":"5270","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"*","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/assets/react.png#":{"id":"5270","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/assets/react.png#default":{"id":"5270","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"default","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/components/Form.jsx":{"id":"3074","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"*","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/components/Form.jsx#":{"id":"3074","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/components/Form.jsx#default":{"id":"3074","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"default","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/components/buttons/ScrollButtonContact.jsx":{"id":"7560","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"*","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/components/buttons/ScrollButtonContact.jsx#":{"id":"7560","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/components/buttons/ScrollButtonContact.jsx#default":{"id":"7560","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"default","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/image.js":{"id":"7059","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"*","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/image.js":{"id":"7059","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"*","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/image.js#":{"id":"7059","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/image.js#":{"id":"7059","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/image.js#default":{"id":"7059","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"default","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/image.js#default":{"id":"7059","chunks":["450:450-3cf50b9acefb0cf0","931:app/page-75165600f6f25312"],"name":"default","async":false},"/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/font/google/target.css?{\"path\":\"app/page.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#":{"id":"null","name":"","chunks":["static/css/33b2f99b2295dae9.css"]},"/Users/k2/Documents/Development/Projects/next-js-13-intro/app/page.module.css#":{"id":"null","name":"","chunks":["static/css/82e4238826c90d3c.css"]},"/Users/k2/Documents/Development/Projects/next-js-13-intro/app/globals.css#":{"id":"null","name":"","chunks":["static/css/6fa671afce0e960e.css"]}}
+self.__RSC_MANIFEST={
+  "__ssr_module_mapping__": {
+    "(app-client)/./node_modules/next/dist/client/components/app-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/app-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/error-boundary.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/error-boundary.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/layout-router.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/layout-router.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+        "chunks": [
+          "app-client-internals:app-client-internals"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./assets/react.png": {
+      "*": {
+        "id": "(sc_client)/./assets/react.png",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./assets/react.png",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./assets/react.png",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./components/Form.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Form.jsx",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/Form.jsx",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/Form.jsx",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./components/buttons/ScrollButtonContact.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/buttons/ScrollButtonContact.jsx",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/buttons/ScrollButtonContact.jsx",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/buttons/ScrollButtonContact.jsx",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image.js",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./components/Navbar.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/Navbar.jsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/Navbar.jsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/Navbar.jsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "default",
+        "async": false
+      }
+    },
+    "(app-client)/./components/fetch/CurrencyFetch.jsx": {
+      "*": {
+        "id": "(sc_client)/./components/fetch/CurrencyFetch.jsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "*",
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./components/fetch/CurrencyFetch.jsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "",
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./components/fetch/CurrencyFetch.jsx",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "name": "default",
+        "async": false
+      }
+    }
+  },
+  "__edge_ssr_module_mapping__": {},
+  "__entry_css_files__": {
+    "/Users/k2/Documents/Development/Projects/next-js-13-intro/app/layout": [
+      "static/css/_app-client_app_globals_css.css"
+    ],
+    "/Users/k2/Documents/Development/Projects/next-js-13-intro/app/page": [
+      "static/css/_app-client_app_page_module_css.css",
+      "static/css/_app-client_node_modules_next_font_google_target_css_path_app_page_js_import_Inter_arguments_-62a856.css"
+    ]
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/app-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/app-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/app-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/app-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/app-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/app-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/error-boundary.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/error-boundary.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/error-boundary.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/error-boundary.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/error-boundary.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/error-boundary.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/layout-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/layout-router.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/layout-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/layout-router.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/layout-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/layout-router.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/render-from-template-context.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/render-from-template-context.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/render-from-template-context.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/components/render-from-template-context.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/components/render-from-template-context.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
+    "chunks": [
+      "app-client-internals:app-client-internals"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/assets/react.png": {
+    "id": "(app-client)/./assets/react.png",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/assets/react.png#": {
+    "id": "(app-client)/./assets/react.png",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/assets/react.png#default": {
+    "id": "(app-client)/./assets/react.png",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/components/Form.jsx": {
+    "id": "(app-client)/./components/Form.jsx",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/components/Form.jsx#": {
+    "id": "(app-client)/./components/Form.jsx",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/components/Form.jsx#default": {
+    "id": "(app-client)/./components/Form.jsx",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/components/buttons/ScrollButtonContact.jsx": {
+    "id": "(app-client)/./components/buttons/ScrollButtonContact.jsx",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/components/buttons/ScrollButtonContact.jsx#": {
+    "id": "(app-client)/./components/buttons/ScrollButtonContact.jsx",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/components/buttons/ScrollButtonContact.jsx#default": {
+    "id": "(app-client)/./components/buttons/ScrollButtonContact.jsx",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/image.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/image.js",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/image.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/image.js",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/image.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/image.js",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/image.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/image.js",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/image.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/image.js",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/image.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/image.js",
+    "chunks": [
+      "app/page:app/page"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/link.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/link.js": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/link.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/link.js#": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/client/link.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/dist/esm/client/link.js#default": {
+    "id": "(app-client)/./node_modules/next/dist/client/link.js",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/components/Navbar.jsx": {
+    "id": "(app-client)/./components/Navbar.jsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/components/Navbar.jsx#": {
+    "id": "(app-client)/./components/Navbar.jsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/components/Navbar.jsx#default": {
+    "id": "(app-client)/./components/Navbar.jsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/components/fetch/CurrencyFetch.jsx": {
+    "id": "(app-client)/./components/fetch/CurrencyFetch.jsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "*",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/components/fetch/CurrencyFetch.jsx#": {
+    "id": "(app-client)/./components/fetch/CurrencyFetch.jsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/components/fetch/CurrencyFetch.jsx#default": {
+    "id": "(app-client)/./components/fetch/CurrencyFetch.jsx",
+    "chunks": [
+      "app/layout:app/layout"
+    ],
+    "name": "default",
+    "async": false
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/app/globals.css#": {
+    "id": "null",
+    "name": "",
+    "chunks": [
+      "static/css/_app-client_app_globals_css.css"
+    ]
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/node_modules/next/font/google/target.css?{\"path\":\"app/page.js\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
+    "id": "null",
+    "name": "",
+    "chunks": [
+      "static/css/_app-client_node_modules_next_font_google_target_css_path_app_page_js_import_Inter_arguments_-62a856.css"
+    ]
+  },
+  "/Users/k2/Documents/Development/Projects/next-js-13-intro/app/page.module.css#": {
+    "id": "null",
+    "name": "",
+    "chunks": [
+      "static/css/_app-client_app_page_module_css.css"
+    ]
+  }
+}

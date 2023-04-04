@@ -73,7 +73,7 @@ export default function Projects() {
           return (
             <div
               key={id}
-              className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700"
+              className="max-w-sm bg-white border mb-3 border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700"
             >
               <Link href={link}>
                 <img className="rounded-t-lg" src={image} alt="" />
