@@ -1,5 +1,10 @@
 # Portfolio website build with Next.js 13 AppDir and Tailwind Css.
 
+Next.js 13 with AppDir blog
+
+Next.js + Tailwind.
+No data is hard coded, components generated from data.
+
 ## Features:
 
 * Server side rendering components
